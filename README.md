@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Muhammad Waqar, and I am doing BE Mechtronics from Air Univeraity Islamabad.
+- 👋 Hi, I’m Muhammad Waqar, and I am doing BE Mechatronics from Air University Islamabad.
 
-- 👀 I’m interested in Proramming and designing different types of robots and websites, also I am good at Graphic Designing.
+- 👀 I’m interested in Progamming and designing different types of robots and websites, also I am good at Graphic Designing.
    
 - 🌱 I’m currently learning Different types of Programming languages like C, C++, Python, and gaining my experiance in website making, On Websites like
       Wordpress and Clickfunnels and having some top notch expertise in Graphic Designing.  
